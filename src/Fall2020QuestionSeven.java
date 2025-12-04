@@ -36,6 +36,8 @@ public class Fall2020QuestionSeven {
             numSalesRep++;
         }
 
+        sc.close();
+
         return numSalesRep;
     }
 
