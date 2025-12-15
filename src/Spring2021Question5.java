@@ -19,6 +19,5 @@ public class Spring2021Question5 {
         for (int i = 2; i < histogram.length; i++) {
             System.out.printf("%8d%8d\n", i, histogram[i]);
         }
-
     }
 }

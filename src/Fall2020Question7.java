@@ -1,5 +1,7 @@
-import java.util.*;
-import java.io.*;
+import java.util.Scanner;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.File;
 
 public class Fall2020Question7 {
 
