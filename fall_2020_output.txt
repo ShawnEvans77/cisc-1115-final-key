@@ -2,13 +2,13 @@ Above Average: 2
 Below Average: 8
 Equal to the Average: 0
 
- Alexander    1306.00
-   Pauline     367.40
    Vanilla     297.56
      Sliwa     271.00
+     Shawn      18.72
+      Rosa     133.61
+   Pauline     367.40
      Mario     236.50
-       Cat     147.66
    Mamdani     146.50
      Jesus     137.50
-      Rosa     133.61
-     Shawn      18.72
+       Cat     147.66
+ Alexander    1306.00

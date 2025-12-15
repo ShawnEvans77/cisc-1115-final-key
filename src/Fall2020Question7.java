@@ -129,7 +129,7 @@ public class Fall2020Question7 {
 
         for (int i = 0; i < numRecords; i++) {
             for (int j = 0; j < numRecords - i - 1; j++) {
-                if (averageTripLength[j] < averageTripLength[j + 1]) {
+                if (names[j].compareTo(names[j+1]) < 0) {
                     String temp = names[j + 1];
                     names[j + 1] = names[j];
                     names[j] = temp;
