@@ -12,7 +12,6 @@ public class Spring2021Question2 {
             int numVowels = 0;
 
             for (int i = 0; i < word.length(); i++) {
-
                 char letter = word.charAt(i);
 
                 if (letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u') {
