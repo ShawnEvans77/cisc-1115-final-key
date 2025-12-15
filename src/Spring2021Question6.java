@@ -9,6 +9,8 @@ public class Spring2021Question6 {
 
         int number = sc.nextInt();
 
+        System.out.println("Enter some numbers between 1 and 100. Enter -1 to terminate the program: ");
+
         while (number != -1) {
 
             if (number < 1 || number > 100) {

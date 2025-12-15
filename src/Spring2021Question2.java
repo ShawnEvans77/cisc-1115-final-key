@@ -6,6 +6,8 @@ public class Spring2021Question2 {
         String mostVowelsString = "";
         int highestVowelCount = 0;
 
+        System.out.println("Enter some words: ");
+
         while (sc.hasNext()) {
 
             String word = sc.next();
