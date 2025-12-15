@@ -1,7 +1,0 @@
-Above Average: 1
-Below Average: 2
-Equal to the Average: 0
-
-   Pauline     367.40
-       Cat     147.66
-     Shawn      18.72
