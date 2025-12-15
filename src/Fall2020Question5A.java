@@ -1,4 +1,4 @@
-public class Fall2020QuestionFiveA {
+public class Fall2020Question5A {
     public static void main(String[] args) {
 
         // we do not need to initialize i, j, k, l, m, and n in the exam, but it is necessary for the program to compile.

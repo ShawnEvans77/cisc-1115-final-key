@@ -1,4 +1,4 @@
-public class Fall2020QuestionSix {
+public class Fall2020Question6 {
     public static void main(String[] args) {
         String str;
         str = "11230-1234 11011-3489 07261-8845";

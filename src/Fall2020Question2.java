@@ -1,4 +1,4 @@
-public class Fall2020QuestionTwo {
+public class Fall2020Question2 {
     public static void main(String[] args) {
         int inches = 245897;
         int miles = inches / (5280*12);

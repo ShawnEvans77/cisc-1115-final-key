@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Fall2020QuestionSeven {
+public class Fall2020Question7 {
 
     public static void main(String[] args) throws IOException {
 

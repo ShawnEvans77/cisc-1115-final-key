@@ -1,4 +1,4 @@
-public class Fall2020QuestionFiveB {
+public class Fall2020Question5B {
     public static void main(String[] args) {
         // we do not need to initialize variables on the exam, but we do it so that the program may compile. 
         double x = 1;
