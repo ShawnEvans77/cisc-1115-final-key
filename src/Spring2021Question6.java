@@ -4,12 +4,11 @@ public class Spring2021Question6 {
     public static void main(String[] args) {
 
         int[] histogram = new int[101];
-
         Scanner sc = new Scanner(System.in);
 
-        int number = sc.nextInt();
-
         System.out.println("Enter some numbers between 1 and 100. Enter -1 to terminate the program: ");
+        
+        int number = sc.nextInt();
 
         while (number != -1) {
 
